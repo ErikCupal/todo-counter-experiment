@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "outDir": "./build/",
+        "rootDir": "./src/",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "esnext",
+        "lib": [
+            "es2017",
+            "dom"
+        ],
+        "moduleResolution": "node",
+        "jsx": "react",
+        "pretty": true,
+        "strictNullChecks": true,
+        "sourceMap": true
+    }
+}
