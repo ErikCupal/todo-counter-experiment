@@ -79,7 +79,6 @@ const onAddClick = () => {
 };
 const onInputSubmit = (newTask: string) => addTodo(newTask);
 
-
 interface Style {
     buttonsContainer: ViewStyle;
     button: ViewStyle;
